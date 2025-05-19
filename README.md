@@ -67,7 +67,7 @@ This project is for educational and non-commercial use only unless otherwise spe
 
 ## 👤 Author
 
-- **Your Name** — # 🛒 BlinkIT Grocery Data Analysis
+- **BlrKnvnem** — # 🛒 BlinkIT Grocery Data Analysis
 
 This project provides an analysis of retail grocery data from BlinkIT. The dataset contains detailed product-level sales and metadata across various outlets, including item types, outlet characteristics, visibility, and ratings. The project aims to uncover trends, patterns, and actionable insights that can be used for inventory optimization, sales forecasting, and outlet performance evaluation.
 
